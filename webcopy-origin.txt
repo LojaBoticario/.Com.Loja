@@ -1,0 +1,256 @@
+Uri: https://afiliapage.com.br/fonts/eicons.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\fonts\eicons-1.woff2
+Content Type: font/woff2
+
+Uri: https://afiliapage.com.br/public_assets/elementor-icons-happy-icons-style.min.css
+File Name: C:\Downloaded Web Sites\prodsexpert.com\public_assets\elementor-icons-happy-icons-style.min-1.css
+Content Type: text/css
+
+Uri: https://afiliapage.com.br/public_assets/elementor-icons.min.css
+File Name: C:\Downloaded Web Sites\prodsexpert.com\public_assets\elementor-icons.min-1.css
+Content Type: text/css
+
+Uri: https://afiliapage.com.br/public_assets/happy-icons-style.min.css
+File Name: C:\Downloaded Web Sites\prodsexpert.com\public_assets\happy-icons-style.min-1.css
+Content Type: text/css
+
+Uri: https://afiliapage.com.br/public_assets/happy-icons.woff
+File Name: C:\Downloaded Web Sites\prodsexpert.com\public_assets\happy-icons-1.woff
+Content Type: font/woff
+
+Uri: https://afiliapage.com.br/public_assets/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\public_assets\happy-icons-1.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css
+File Name: C:\Downloaded Web Sites\prodsexpert.com\npm\@fortawesome\fontawesome-free\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\prodsexpert.com\npm\@fortawesome\fontawesome-free\webfonts\fa-brands-400-1.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\npm\@fortawesome\fontawesome-free\webfonts\fa-brands-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\prodsexpert.com\npm\@fortawesome\fontawesome-free\webfonts\fa-regular-400-1.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\npm\@fortawesome\fontawesome-free\webfonts\fa-regular-400-1.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\prodsexpert.com\npm\@fortawesome\fontawesome-free\webfonts\fa-solid-900-1.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\npm\@fortawesome\fontawesome-free\webfonts\fa-solid-900-1.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\prodsexpert.com\npm\@fortawesome\fontawesome-free\webfonts\fa-v4compatibility-1.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\npm\@fortawesome\fontawesome-free\webfonts\fa-v4compatibility-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L0UUMbndwVgHU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L0UUMbndwVgHU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L1UUMbndwVgHU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L1UUMbndwVgHU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L2UUMbndwVgHU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L2UUMbndwVgHU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L3UUMbndwVgHU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L3UUMbndwVgHU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L5UUMbndwV.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L5UUMbndwV-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L6UUMbndwVgHU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L6UUMbndwVgHU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L9UUMbndwVgHU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L9UUMbndwVgHU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/inter/v18/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\inter\v18\UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQbuFFYT72XzQspDqW1KX7wmA.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\sora\v12\xMQbuFFYT72XzQspDqW1KX7wmA-1.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/sora/v12/xMQbuFFYT72XzQUpDqW1KX4.woff2
+File Name: C:\Downloaded Web Sites\prodsexpert.com\s\sora\v12\xMQbuFFYT72XzQUpDqW1KX4-1.woff2
+Content Type: font/woff2
+
+Uri: https://prodsexpert.com/aspiradorcod/?fbclid=PAY2xjawIY6GlleHRuA2FlbQIxMAABporz7Gk5EkIKhoA4nZ7MZBtlZgGRuRAbEKtz2D0blm3aVX4BlsXkvVW0wA_aem_uAHD8ddvrT9yTlBIxXQcAg
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\index-1.htm
+Content Type: text/html
+
+Uri: https://prodsexpert.com/aspiradorcod/frame-482765.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\frame-482765-1.png
+Content Type: image/png
+
+Uri: https://prodsexpert.com/aspiradorcod/Frame-4s82756.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\Frame-4s82756-1.png
+Content Type: image/png
+
+Uri: https://prodsexpert.com/aspiradorcod/img-1.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\img-1-1.png
+Content Type: image/png
+
+Uri: https://prodsexpert.com/aspiradorcod/imgprod-6.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\imgprod-6-1.png
+Content Type: image/png
+
+Uri: https://prodsexpert.com/aspiradorcod/wpo-minify-footer-51043a00.min.js
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\wpo-minify-footer-51043a00.min-1.js
+Content Type: text/javascript
+
+Uri: https://prodsexpert.com/aspiradorcod/wpo-minify-footer-560d127a.min.js
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\wpo-minify-footer-560d127a.min-1.js
+Content Type: text/javascript
+
+Uri: https://prodsexpert.com/aspiradorcod/wpo-minify-footer-a11213ea.min.js
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\wpo-minify-footer-a11213ea.min-1.js
+Content Type: text/javascript
+
+Uri: https://prodsexpert.com/aspiradorcod/wpo-minify-header-31228f8b.min.css
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\wpo-minify-header-31228f8b.min-1.css
+Content Type: text/css
+
+Uri: https://prodsexpert.com/aspiradorcod/wpo-minify-header-bb3c3bdb.min.js
+File Name: C:\Downloaded Web Sites\prodsexpert.com\aspiradorcod\wpo-minify-header-bb3c3bdb.min-1.js
+Content Type: text/javascript
+
+Uri: https://storezz.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\prodsexpert.com\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://storezz.com.br/feed/
+File Name: C:\Downloaded Web Sites\prodsexpert.com\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/frame-482765-150x150.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\frame-482765-150x150-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/frame-482765-300x300.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\frame-482765-300x300-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/frame-482765.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\frame-482765-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/img-1-300x285.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\img-1-300x285-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/img-1-768x730.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\img-1-768x730-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/img-1.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\img-1-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/img-2.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\img-2-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/img-3.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\img-3-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/img-4.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\img-4-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/imgprod-6-295x300.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\imgprod-6-295x300-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/imgprod-6.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\imgprod-6-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/08/uuu.png
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\08\uuu-1.png
+Content Type: image/png
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/10/1xg-150x150.avif
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\10\1xg-150x150-1.avif
+Content Type: image/avif
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/10/1xg-300x300.avif
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\10\1xg-300x300-1.avif
+Content Type: image/avif
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/10/1xg-768x768.avif
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\10\1xg-768x768-1.avif
+Content Type: image/avif
+
+Uri: https://storezz.com.br/wp-content/uploads/2024/10/1xg.avif
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-content\uploads\2024\10\1xg-1.avif
+Content Type: image/avif
+
+Uri: https://storezz.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://storezz.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fstorezz.com.br%2Fprodutos%2Faspirador%2Flp%2F
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://storezz.com.br/wp-json/oembed/1.0/embed?url=https:%2F%2Fstorezz.com.br%2Fprodutos%2Faspirador%2Flp%2F&format=xml
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://storezz.com.br/wp-json/wp/v2/pages/5759
+File Name: C:\Downloaded Web Sites\prodsexpert.com\wp-json\wp\v2\pages\5759-1
+Content Type: application/json
+
+Uri: https://storezz.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\prodsexpert.com\xmlrpc-1.php
+Content Type: text/xml
+
